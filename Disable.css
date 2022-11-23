@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    height: 100vh;
+}
+#parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+}
+.inputs input{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 6px;
+    width: 18rem;
+    border: 1px solid grey;
+}
+.radios{
+    font-size: 22px;
+}
