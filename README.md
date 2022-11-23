@@ -1,1 +1,0 @@
-# Disable-inputs-with-js
